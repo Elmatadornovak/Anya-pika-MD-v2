@@ -7,8 +7,8 @@ global.simpleBotname = "ichigo" //⚠️ Only use normal and one work name here 
 
 //------------❤️ 𝗕𝗼𝘁 𝗱𝗲𝘁𝗮𝗶𝗹𝘀 ❤️-----------\\
 globale . botname  =   "king ichigo" 
-global.websitex = "https://github.com/Pika4O4" // Website to be displayed //
-global.botscript = 'https://github.com/PikaBotz/Anya-pika-MD-v2' // Script link //
+global.websitex = "https://github.com/elmatadornovak" // Website to be displayed //
+global.botscript = 'https://github Elmatadornovak/Anya-pika-MD-v2' // Script link /
 globale .packname  =  "El matador fun time"  // autocollant filigrane packname //
 globale . auteur =  "😎 el matdor 3.0"  // auteur du filigrane autocollant //
 actiontitle = '࿙⚜īchìgo⚜࿚' // text who displays on the top of welcome and left message //
